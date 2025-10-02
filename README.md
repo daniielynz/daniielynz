@@ -5,7 +5,7 @@
 * Desarrollador web y multiplataforma
 * Programador
 * Técnico informático
-* * **Actualmente estoy aprendiendo** sobre **Inteligencia Artificial (IA) y Automatización** 🧠⚙️.
+* **Actualmente estoy aprendiendo** sobre **Inteligencia Artificial (IA) y Automatización** 🧠⚙️.
 
 ## Redes Sociales 🌎
 
