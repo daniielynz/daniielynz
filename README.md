@@ -10,7 +10,7 @@
 ## Redes Sociales 🌎
 
 [![Portfolio](https://img.shields.io/badge/Portafolio-FFFFFF?style=for-the-badge&logo=About.me&logoColor=black)](https://daniielynz.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielyanezpena/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielyanez-developer/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielyanezdm2@gmail.com)
 
 ## Tecnologías 👨‍💻
